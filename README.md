@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:movie_camera: I’m currently working on something really cool like blockchain, web3 and dapps
+:movie_camera: I’m currently working on something really cool like statistics, data science and machine learning
 
 <!--
 **ruksad/ruksad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
